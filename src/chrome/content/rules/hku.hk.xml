@@ -2,37 +2,37 @@
 	Problematic domains:
 	
 	Invalid certs:
-	 	- www.aal.hku.hk
-	 	- www.als.hku.hk
-	 	- www.biosch.hku.hk
+		- www.aal.hku.hk
+		- www.als.hku.hk
+		- www.biosch.hku.hk
 		- www.buddhism.hku.hk
 		- caes.hku.hk
-	 	- www.careers.hku.hk
+		- www.careers.hku.hk
 		- cbh.hku.hk
- 		- ccsg.hku.hk
-	 	- apps.cedars.hku.hk
+		- ccsg.hku.hk
+		- apps.cedars.hku.hk
 		- dmp.cedars.hku.hk
-	 	- w3.cedars.hku.hk
-	 	- wp2.cedars.hku.hk
-	 	- cetl.hku.hk
-	 	- ar.cetl.hku.hk
-	 	- arch.cetl.hku.hk
-	 	- certcourse.cetl.hku.hk
-	 	- e3r.cetl.hku.hk
-	 	- hke3r.cetl.hku.hk
-	 	- moodle.cetl.hku.hk
-	 	- moodle2.cetl.hku.hk
-	 	- myreview2016.cetl.hku.hk
-	 	- video.cetl.hku.hk
-	 	- www.cetl.hku.hk
-	 	- www.chemistry.hku.hk
+		- w3.cedars.hku.hk
+		- wp2.cedars.hku.hk
+		- cetl.hku.hk
+		- ar.cetl.hku.hk
+		- arch.cetl.hku.hk
+		- certcourse.cetl.hku.hk
+		- e3r.cetl.hku.hk
+		- hke3r.cetl.hku.hk
+		- moodle.cetl.hku.hk
+		- moodle2.cetl.hku.hk
+		- myreview2016.cetl.hku.hk
+		- video.cetl.hku.hk
+		- www.cetl.hku.hk
+		- www.chemistry.hku.hk
 		- www.chm.hku.hk
- 		- www.civil.hku.hk
+		- www.civil.hku.hk
 		- www.cmel.hku.hk
- 		- commoncore.hku.hk
+		- commoncore.hku.hk
 		- www.cpao.hku.hk
 		- www.snrg.cs.hku.hk
-	 	- csfirst.cs.hku.hk
+		- csfirst.cs.hku.hk
 		- www.csd.hku.hk
 		- www.csis.hku.hk
 		- csrp.hku.hk
@@ -41,102 +41,135 @@
 		- onlinesurvey.csrp.hku.hk
 		- survey.csrp.hku.hk
 		- www.culture.hku.hk
-	 	- www.dreamcatchers.hku.hk
+		- www.dreamcatchers.hku.hk
 		- www.econ.hku.hk
-	 	- fis.edu.hku.hk
+		- fis.edu.hku.hk
 		- moodle.edu.hku.hk
 		- engineering.hku.hk
-	 	- www.english.hku.hk
+		- www.english.hku.hk
 		- www.exam.hku.hk
-	 	- www.fife.hku.hk
+		- www.fife.hku.hk
 		- ghelc.hku.hk
-	 	- ca.grid.hku.hk
-	 	- handbook.hku.hk
-	 	- www.handbook.hku.hk
-	 	- www.hedo.hku.hk
-	 	- www.hkihss.hku.hk
-	 	- hkumath.hku.hk
+		- www.gradhse.hku.hk
+		- www.gradsch.hku.hk
+		- www.greek.hku.hk
+		- ca.grid.hku.hk
+		- handbook.hku.hk
+		- www.handbook.hku.hk
+		- hcmsdrweb.hku.hk
+		- hedleyindex.hku.hk
+		- www.hedo.hku.hk
+		- heritage.hku.hk
+		- www.history.hku.hk
+		- www.hkihss.hku.hk
+		- hknf.hku.hk
+		- hkumath.hku.hk
 		- www.hkupasteur.hku.hk
 		- data.hkupop.hku.hk
- 		- cc8.hkuspace.hku.hk
+		- cc8.hkuspace.hku.hk
 		- wpd.hkuspace.hku.hk
- 		- w2.hkuspace.hku.hk
-	 	- www.chemsoc.hkusu.hku.hk
+		- w2.hkuspace.hku.hk
+		- www.chemsoc.hkusu.hku.hk
 		- www.chinsoc.hkusu.hku.hk
 		- www.council.hkusu.hku.hk
 		- www.dance.hkusu.hku.hk
 		- www.efs.hkusu.hku.hk
 		- www.hkusucec.hkusu.hku.hk
 		- www.icahkusu.hkusu.hku.hk
-	 	- www.karate.hkusu.hku.hk
+		- www.karate.hkusu.hku.hk
 		- www.magic.hkusu.hku.hk
 		- www.medes.hkusu.hku.hk
-	 	- www.ppaa.hkusu.hku.hk
+		- www.ppaa.hkusu.hku.hk
 		- www.psysoc.hkusu.hku.hk
-	 	- www.ramblers.hkusu.hku.hk
+		- www.ramblers.hkusu.hku.hk
 		- www.sass.hkusu.hku.hk
- 		- www.sociso.hkusu.hku.hk
+		- www.sociso.hkusu.hku.hk
 		- www.ssshkusu.hkusus.hku.hk
 		- www.suastro.hkusu.hku.hk
 		- hkux-survey.hku.hk
-	 	- www.hr.hku.hk
+		- www.hr.hku.hk
 		- www.ihp.hku.hk
- 		- www.imse.hku.hk
-	 	- www.infoday.hku.hk
+		- www.imse.hku.hk
+		- www.infoday.hku.hk
+		- dev.its.hku.hk
 		- survey.its.hku.hk
-	 	- transparency.jmsc.hku.hk
-	 	- cmp.jmsc.hku.hk
-	 	- hrc.jmsc.hku.hk
-	 	- jobs.hku.hk
-	 	- www.ke.hku.hk
-	 	- medialaw2013.law.hku.hk
+		- itscloud.hku.hk
+		- www.itservices.hku.hk
+		- www.jaotipe.hku.hk
+		- www.japanese.hku.hk
+		- cmp.jmsc.hku.hk
+		- hrc.jmsc.hku.hk
+		- transparency.jmsc.hku.hk
+		- web.jmsc.hku.hk
+		- jobs.hku.hk
+		- www.kc.hku.hk
+		- www.ke.hku.hk
+		- www.korean.hku.hk
+		- medialaw2013.law.hku.hk
 		- lawdoc.hku.hk
-	 	- www.ldsrc.hku.hk
+		- www.ldsrc.hku.hk
 		- www.les.hku.hk
 		- etd.lib.hku.hk
 		- libguides.lib.hku.hk
-   		- sunzi.lib.hku.hk
+		- sunzi.lib.hku.hk
 		- sunzi1.lib.hku.hk
-	 	- lmsbatch1.hku.hk
+		- www.linguistics.hku.hk
+		- lmsbatch1.hku.hk
+		- www.lskhall.hku.hk
+		- www.maps.hku.hk
+		- www.math.hku.hk
+		- maths.hku.hk
+		- mathsbuddy.hku.hk
+		- www.mba.hku.hk
+		- mbh.hku.hk
 		- me.hku.hk
+		- www.mech.hku.hk
+		- corefac.med.hku.hk
+		- emu.med.hku.hk
 		- informatics2017.med.hku.hk
+		- ngi.med.hku.hk
 		- transmission2017.med.hku.hk
 		- moodle-support.hku.hk
-	 	- muse.hku.hk
-	 	- news.muse.hku.hk
-	 	- www.muse.hku.hk
-	 	- www.newcollege.hku.hk
+		- muse.hku.hk
+		- news.muse.hku.hk
+		- www.muse.hku.hk
+		- www.newcollege.hku.hk
 		- online.hku.hk
+		- www.patho.hku.hk
 		- mail.pathology.hku.hk
-	 	- www.pharama.hku.hk
-	 	- philosophy.hku.hk
+		- www.pharma.hku.hk
+		- philosophy.hku.hk
+		- www.philosophy.hku.hk
+		- www.physics.hku.hk
 		- ppa.hku.hk
 		- www.presidentoffice.hku.hk
- 		- www.psychology.hku.hk
-	 	- www.role.hku.hk
-	 	- www.rss.hku.hk
+		- www.psychology.hku.hk
+		- religiouslife.hku.hk
+		- www.role.hku.hk
+		- www.rss.hku.hk
 		- sbb.hku.hk
 		- scr.hku.hk
 		- www.scr.hku.hk
-   		- www.sef.hku.hk
+		- www.sef.hku.hk
 		- setl.hku.hk
-	 	- www.shunhingcollege.hku.hk
+		- www.shunhingcollege.hku.hk
 		- www.smlc.hku.hk
 		- alumni.socialwork.hku.hk
- 		- www.socialwork.hku.hk
-	 	- www.socsc.hku.hk
+		- www.socialwork.hku.hk
+		- www.socsc.hku.hk
 		- www.soh.hku.hk
- 		- www.speech.hku.hk
+		- www.speech.hku.hk
 		- bcrmu.sph.hku.hk
 		- mph.sph.hku.hk
-	 	- pcp.sph.hku.hk
+		- pcp.sph.hku.hk
 		- ssrc.hku.hk
- 		- www.swire.hku.hk
+		- www.swire.hku.hk
 		- git.teli.hku.hk
 		- survey.teli.hku.hk
 		- www.teli.hku.hk
-	 	- tl.hku.hk
-	 	- tto.hku.hk
+		- tl.hku.hk
+		- tto.hku.hk
+		- www.tto.hku.hk
 		- uhs.hku.hk
 		- www.uhs.hku.hk
 		- www.umag.hku.hk
@@ -144,9 +177,10 @@
 		- wquit.hku.hk
 		- www.uhs.hku.hk
 		- mail.versitech.hku.hk
-		- www.weilun.hku.hl
-	 	- www.wsrcweb.hku.hk
-	 	- www4.hku.hk
+		- www.waterman.hku.hk
+		- www.weilun.hku.hk
+		- www.wsrcweb.hku.hk
+		- www4.hku.hk
 		- www-2.hku.hk
 		- www.yangtze.hku.hk
 		- www.ziri.hku.hk
@@ -232,7 +266,13 @@
 	<target host="fbe.hku.hk" />
 	<target host="www.fbe.hku.hk" />
 	<target host="www.giving.hku.hk" />
+	<target host="graduate.hku.hk" />
+	<target host="graduate-nsp1.hku.hk" />
 	<target host="community.grid.hku.hk" />
+	<target host="hcms-eportal.hku.hk" />
+	<target host="hcms-main.hku.hk" />
+	<target host="hcms-rportal.hku.hk" />
+	<target host="hkall.hku.hk" />
 	<target host="hkuems1.hku.hk" />
 	<target host="hkuesd.hku.hk" />
 	<target host="hkupop.hku.hk" />
@@ -266,6 +306,8 @@
 	<target host="ids.hku.hk" />
 	<target host="online.ihp.hku.hk" />
 	<target host="its.hku.hk" />
+	<target host="leschat.its.hku.hk" />
+	<target host="livechat.its.hku.hk" />
 	<target host="www.its.hku.hk" />
 	<target host="itsnow.hku.hk" />
 	<target host="intranet.hku.hk" />
@@ -284,6 +326,9 @@
 	<target host="www.lib.hku.hk" />
 	<target host="www.marathon.hku.hk" />
 	<target host="med.hku.hk" />
+	<target host="130.med.hku.hk" />
+	<target host="skills.med.hku.hk" />
+	<target host="tt.med.hku.hk" />
 	<target host="www.med.hku.hk" />
 	<target host="www.mentorship.hku.hk" />
 	<target host="nursing.hku.hk" />
@@ -298,6 +343,7 @@
 	<target host="ppaweb.hku.hk" />
 	<target host="www.ppaweb.hku.hk" />
 	<target host="www.psychiatry.hku.hk" />
+	<target host="www.qac.hku.hk" />
 	<target host="www.rblack.hku.hk" />
 	<target host="soas.hku.hk" />
 	<target host="sociology.hku.hk" />
@@ -308,6 +354,7 @@
 	<target host="www.summerals.hku.hk" />
 	<target host="sweb.hku.hk" />
 	<target host="www.talentedapp.hku.hk" />
+	<target host="testportal.hku.hk" />
 	<target host="tl.hku.hk" />
 	<target host="survey.tlem.hku.hk" />
 	<target host="tutorial-signup.hku.hk" />
