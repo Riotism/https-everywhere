@@ -1,20 +1,53 @@
-<ruleset name="Leisure and Cultural Services Department">
+<!--
+	For other HK government coverage, see GovHK.xml.
+
+	Invalid cert:
+		- hdclib.lcsd.gov.hk
+		- helpdesktouchpaper.lcsd.gov.hk
+		- ipac.hkfa.lcsd.gov.hk
+		- hm01.lcsd.gov.hk
+		- it.lcsd.gov.hk
+		- mhmcms.lcsd.gov.hk
+		- mo.lcsd.gov.hk
+		- oic.lcsd.gov.hk
+		- treedev.lcsd.gov.hk
+		- video.lcsd.gov.hk
+		- eaps.widehosts.lcsd.gov.hk
+		- emois.widehosts.lcsd.gov.hk
+		- heritagemuseum.widehosts.lcsd.gov.hk
+		- ipac.hkfa.widehosts.lcsd.gov.hk
+		- ssms.widehosts.lcsd.gov.hk
+		- t2leisurelink.widehosts.lcsd.gov.hk
+		- t3leisurelink.widehosts.lcsd.gov.hk
+		- www2.widehosts.lcsd.gov.hk
+		- www3.widehosts.lcsd.gov.hk
+		- www4.widehosts.lcsd.gov.hk
+		- www5.lcsd.gov.hk
+
+	SSL error:
+		- imts.lcsd.gov.hk
+		- ballot.widehosts.lcsd.gov.hk
+		- imts.widehosts.lcsd.gov.hk
+-->
+<ruleset name="Leisure and Cultural Services Department (local)">
 
 	<target host="lcsd.gov.hk" />
+	<target host="ballot.lcsd.gov.hk" />
+	<target host="cima.lcsd.gov.hk" />
+	<target host="corporategames.lcsd.gov.hk" />
+	<target host="eaps.lcsd.gov.hk" />
+	<target host="emois.lcsd.gov.hk" />
+	<target host="hongkonggames.lcsd.gov.hk" />
+	<target host="sc.lcsd.gov.hk" />
 	<target host="www.lcsd.gov.hk" />
 	<target host="www2.lcsd.gov.hk" />
 	<target host="www3.lcsd.gov.hk" />
-	
-	<target host="corporategames.lcsd.gov.hk" />
-	<target host="eaps.lcsd.gov.hk" />
-	<target host="hongkonggames.lcsd.gov.hk" />
-	<target host="oic.lcsd.gov.hk" />
-	<target host="sc.lcsd.gov.hk" />
+	<target host="www4.lcsd.gov.hk" />
 
-<!-- exceptions to prevent redirect loops -->
+<!-- Exclusion patterns to prevent redirect loops -->
 	<exclusion pattern="^http://www\.lcsd\.gov\.hk/(en|tc|sc)/news\.php" />
-	<exclusion pattern="^http://www\.lcsd\.gov\.hk/(en|tc|sc)/contactus/(access|email)\.php" />
-	<exclusion pattern="^http://www\.lcsd\.gov\.hk/(en|tc|sc)/aboutlcsd/jobs\.php" />
+	<exclusion pattern="^http://www\.lcsd\.gov\.hk/(en|tc|sc)/contactus/access\.php" />
+	<exclusion pattern="^http://www\.lcsd\.gov\.hk/(en|tc|sc)/contactus/email\.php" />
 	
 	<test url="http://www.lcsd.gov.hk/en/news.php" />
 	<test url="http://www.lcsd.gov.hk/sc/news.php" />
@@ -23,12 +56,9 @@
 	<test url="http://www.lcsd.gov.hk/en/contactus/email.php" />
 	<test url="http://www.lcsd.gov.hk/sc/contactus/email.php" />
 	<test url="http://www.lcsd.gov.hk/tc/contactus/email.php" />
-	<test url="http://www.lcsd.gov.hk/en/aboutlcsd/jobs.php" />
-	<test url="http://www.lcsd.gov.hk/sc/aboutlcsd/jobs.php" />
-	<test url="http://www.lcsd.gov.hk/tc/aboutlcsd/jobs.php" />
 
-<!-- rules -->
-	<rule from="^http://(www\.)?lcsd\.gov\.hk/" to="https://www.lcsd.gov.hk/" />
+<!-- Rules -->
+	<rule from="^http://lcsd\.gov\.hk/" to="https://www.lcsd.gov.hk/" />
 	
 	<rule from="^http:" to="https:" />
 </ruleset>
